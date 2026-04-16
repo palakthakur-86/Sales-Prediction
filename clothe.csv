@@ -1,0 +1,13 @@
+sale_date,gender,product_name,price,quantity,total_sales
+2025-12-01,Men,Shirt,1200,5,6000
+2025-12-02,Men,Trouser,1500,3,4500
+2025-12-03,Women,Suits,2500,2,5000
+2025-12-04,Women,Top,800,6,4800
+2025-12-05,Men,Shirt,1250,4,5000
+2025-12-06,Men,Trouser,1550,2,3100
+2025-12-07,Women,Suits,2600,3,7800
+2025-12-08,Women,Top,850,5,4250
+2025-12-09,Men,Shirt,1300,6,7800
+2025-12-10,Men,Trouser,1600,3,4800
+2025-12-11,Women,Suits,2550,2,5100
+2025-12-12,Women,Top,900,4,3600

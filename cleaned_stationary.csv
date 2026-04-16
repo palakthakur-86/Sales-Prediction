@@ -1,0 +1,13 @@
+date,category,sub_category,product,price,quantity,total_sales
+2025-12-01,statioanry,none,pen,10,50,500
+2025-12-02,statioanry,none,pencil,5,60,300
+2025-12-03,statioanry,none,notebook,60,20,1200
+2025-12-04,statioanry,none,page-folder,30,25,750
+2025-12-05,statioanry,none,pen,12,40,480
+2025-12-06,statioanry,none,pencil,6,50,300
+2025-12-07,statioanry,none,notebook,55,22,1210
+2025-12-08,statioanry,none,page-folder,35,20,700
+2025-12-09,statioanry,none,pen,11,60,660
+2025-12-10,statioanry,none,pencil,5,70,350
+2025-12-11,statioanry,none,notebook,58,18,1044
+2025-12-12,statioanry,none,page-folder,32,28,896

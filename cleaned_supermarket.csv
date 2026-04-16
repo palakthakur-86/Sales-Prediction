@@ -1,0 +1,13 @@
+date,category,sub_category,product,price,quantity,total_sales
+2025-12-01,supermarket,none,rice,60,50,3000
+2025-12-02,supermarket,none,cooking oil,150,30,4500
+2025-12-03,supermarket,none,bread,40,25,1000
+2025-12-04,supermarket,none,tea,120,20,2400
+2025-12-05,supermarket,none,rice,62,45,2790
+2025-12-06,supermarket,none,cooking oil,155,25,3875
+2025-12-07,supermarket,none,bread,42,30,1260
+2025-12-08,supermarket,none,tea,125,18,2250
+2025-12-09,supermarket,none,rice,61,55,3355
+2025-12-10,supermarket,none,cooking oil,150,28,4200
+2025-12-11,supermarket,none,bread,45,20,900
+2025-12-12,supermarket,none,tea,130,22,2860

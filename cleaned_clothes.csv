@@ -1,0 +1,13 @@
+date,category,sub_category,product,price,quantity,total_sales
+2025-12-01,clothe,men,shirt,1200,5,6000
+2025-12-02,clothe,men,trouser,1500,3,4500
+2025-12-03,clothe,women,suits,2500,2,5000
+2025-12-04,clothe,women,top,800,6,4800
+2025-12-05,clothe,men,shirt,1250,4,5000
+2025-12-06,clothe,men,trouser,1550,2,3100
+2025-12-07,clothe,women,suits,2600,3,7800
+2025-12-08,clothe,women,top,850,5,4250
+2025-12-09,clothe,men,shirt,1300,6,7800
+2025-12-10,clothe,men,trouser,1600,3,4800
+2025-12-11,clothe,women,suits,2550,2,5100
+2025-12-12,clothe,women,top,900,4,3600
